@@ -38,6 +38,7 @@ Tanto los adultos mayores como los adultos son un grupo especial. Los adultos ma
 La cantidad de llamadas y mensajes tanto en Básico como en Premium tiene un comportamiento similar similar independientemente del plan.
 
 7. Insight ejecutivo - 
+
 **⚠️ Problemas detectados en los datos**
 La columna age tenía un std de 123.23 y el mínimo era de -999. Después de limpiar, el std bajó a 17.69 y el mínimo se convirtió en 18.
 La columna reg_datee tenía 40 fechas con año 2026, y trabajamos solamente hasta el 2024.
