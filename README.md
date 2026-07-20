@@ -64,7 +64,7 @@ Para los outliers de cant_minutos_llamada se sugiere crear un grupo con promocio
 8. Publicación
 
 **Cómo ejecutar el notebook:**
-1. *Cómo abrir el notebook* → puedes poner un link directo a Google Colab
+1. *Cómo abrir el notebook* → [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yaxkinsoag-973/sprint7-final-project/blob/main/S7%20Version-Estudiante-Project-ConnectaTel.ipynb)
 2. *Cómo cargar los datos* → indicar dónde están los archivos CSV y cómo subirlos si es necesario
 3. *Cómo ejecutar las celdas* → Ejecutar todas las celdas en orden desde Runtime > Run all
 
