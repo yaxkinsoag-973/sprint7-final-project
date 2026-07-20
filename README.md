@@ -1,8 +1,10 @@
 # sprint7-final-project
 Final project - Sprint 7
 Agrega un archivo README.md que describa de forma clara:
+
 **Ojetivo:**
 evaluar el comportamiento de los clientes de una empresa de telecomunicaciones en Latinoamérica, ConnectaTel, hasta el año 2024.
+
 **Datasets utilizados:**
 1. plans.csv → información de los planes actuales (precio, minutos incluidos, GB incluidos, costo por extra)
 2. users.csv → información de los clientes (edad, ciudad, fecha de registro, plan, churn)
